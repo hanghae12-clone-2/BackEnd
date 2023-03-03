@@ -1,4 +1,4 @@
-package com.example.hanghaeclone.entity;
+package com.hanghaeclone.dangoon.entity;
 
 import lombok.Getter;
 import org.springframework.data.annotation.CreatedDate;

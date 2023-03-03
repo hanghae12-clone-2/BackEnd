@@ -1,4 +1,4 @@
-package com.example.hanghaeclone.config;
+package com.hanghaeclone.dangoon.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

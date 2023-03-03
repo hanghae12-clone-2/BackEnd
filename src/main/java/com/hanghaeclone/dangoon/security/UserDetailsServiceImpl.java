@@ -1,6 +1,6 @@
-package com.example.hanghaeclone.security;
+package com.hanghaeclone.dangoon.security;
 
-import com.example.hanghaeclone.repository.UserRepository;
+import com.hanghaeclone.dangoon.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;

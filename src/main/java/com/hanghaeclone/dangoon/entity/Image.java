@@ -1,7 +1,6 @@
-package com.example.hanghaeclone.entity;
+package com.hanghaeclone.dangoon.entity;
 
 import javax.persistence.*;
-import java.security.PrivateKey;
 
 @Entity
 public class Image {

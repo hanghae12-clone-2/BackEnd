@@ -1,4 +1,4 @@
-package com.example.hanghaeclone.dto;
+package com.hanghaeclone.dangoon.dto;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

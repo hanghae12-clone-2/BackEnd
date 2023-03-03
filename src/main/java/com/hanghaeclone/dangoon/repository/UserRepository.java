@@ -1,4 +1,4 @@
-package com.example.hanghaeclone.repository;
+package com.hanghaeclone.dangoon.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.security.core.userdetails.User;

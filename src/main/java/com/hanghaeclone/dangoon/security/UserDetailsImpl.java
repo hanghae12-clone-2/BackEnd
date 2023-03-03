@@ -1,4 +1,4 @@
-package com.example.hanghaeclone.security;
+package com.hanghaeclone.dangoon.security;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.User;

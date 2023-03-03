@@ -1,6 +1,6 @@
-package com.example.hanghaeclone.jwt;
+package com.hanghaeclone.dangoon.jwt;
 
-import com.example.hanghaeclone.dto.SecurityExceptionDto;
+import com.hanghaeclone.dangoon.dto.SecurityExceptionDto;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import io.jsonwebtoken.Claims;
 import lombok.RequiredArgsConstructor;
